@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Deni Avdija Analysis",
+  "version": "1.0",
+  "description": "A Chrome extension that provides analysis and information about Deni Avdija.",
+  "action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["tabs"]
+}
+  
