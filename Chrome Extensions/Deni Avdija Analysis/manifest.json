@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Deni Avdija Analysis",
+  "name": "Deni Avdija Weekly Survey",
   "version": "1.0",
   "description": "A Chrome extension that provides analysis and information about Deni Avdija.",
   "action": {
